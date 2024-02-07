@@ -59,7 +59,7 @@ The project **LapLab**'s  goal is to harness the power of data to refine sales s
 
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/LapLab/LapLab-DatabaseDesign.git
+git clone https://github.com/AliNzmv/LapLab.git
 ```
 
 2. **Database Setup**:
