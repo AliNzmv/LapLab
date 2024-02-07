@@ -68,7 +68,7 @@ git clone https://github.com/AliNzmv/LapLab.git
 pip install -r requirements.txt
 ```
 
-2. **Database Setup**:
+3. **Database Setup**:
    - Use the `generate_dataframes_csv_from_flat.ipynb` to create the initial csv tables from flat files (As available in csv_4_sql.zip)
    - Use 'sql_start_database_structure.sql' to initialize MySQL database architecture.
    - Use 'create_mysql_database.ipynb' to fill in all database tables and instances.
