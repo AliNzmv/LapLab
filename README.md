@@ -53,6 +53,8 @@ The project **LapLab**'s  goal is to harness the power of data to refine sales s
   ├── powerbi_dashboard.pbix
   ├── AnimatedBarChartRace.wishyoulizationbarchartrace.1.0.0.0.pbiviz
   ├── chicletSlicer.1.3.0.pbiviz
+  ├── requirements.txt
+  
 ```
 
 ## 🚀 Getting Started
@@ -60,6 +62,10 @@ The project **LapLab**'s  goal is to harness the power of data to refine sales s
 1. **Clone the Repository**:
 ```bash
 git clone https://github.com/AliNzmv/LapLab.git
+```
+2. **install requirement packages**:
+```bash
+pip install -r requirements.txt
 ```
 
 2. **Database Setup**:
